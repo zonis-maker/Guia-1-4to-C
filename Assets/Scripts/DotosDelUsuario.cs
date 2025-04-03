@@ -12,7 +12,7 @@ public class DotosDelUsuario : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Mi nombre es " + nombreUsuario);
+        Debug.Log("Mi nombre es " + nombreUsuario + ", tengo" + edadUsuario + "años y mido " + alturaUsuario + " metros y es " + esDonante + " que soy donante.");
     }
 
     // Update is called once per frame
